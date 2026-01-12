@@ -13,17 +13,17 @@
 
 ---
 
-### 👋 Hi, I’m mrzdtydlntm
+### 👋 Hi, I’m Mirza!
 
-> Just a 'geek' person. FOMO with all the updates for backend and devops.  
-> I talk with Go and Node.js, and deploy with Docker and Kubernetes.  
+> Just a 'geek' person. FOMO with all the updates for BackEnd and DevSecOps.  
+> I code with Go and Node.js, and deploy with Docker, Kubernetes and Jenkins using a cloud PaS.  
 > _More fluent talking to machines than women._ 🤖
 
 ---
 
 #### 🚀 Professional Focus
 
-- **Software Engineer** specialized in **Backend** & **DevOps**
+- **Software Engineer** specialized in **Backend** & **DevSecOps**
 - Building scalable systems and automating infrastructure
 - Always chasing the latest trends in backend and cloud tech
 
@@ -32,7 +32,7 @@
 #### 🛠 Top Skills
 
 - **Languages:** Go · Node.js (TypeScript/Javascript)
-- **DevOps:** Docker · Compose · Kubernetes · Cloud (GCP/AWS)
+- **DevOps:** Docker · Compose · Kubernetes · Cloud (GCP/AWS) · Proxmox
 - **Infra-as-Code:** Terraform · Ansible
 
 ---
@@ -57,6 +57,10 @@
   <a href="https://mrzdtydlntm.my.id">
     <img src="https://img.shields.io/badge/Website-232526?style=flat&logo=about-dot-me&logoColor=white"/>
   </a>
+  <a href="mailto:me@mrzdtydlntm.my.id">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+
 </p>
 
 ---
@@ -82,13 +86,8 @@
     <img src="https://img.shields.io/badge/Cloud-232526?style=for-the-badge&logo=googlecloud&logoColor=4285F4"/>
   </p>
 </details>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrzdtydlntm&show_icons=true&theme=dark&hide_border=true&bg_color=232526,414345" alt="github stats"/>
-</p>
-
 ---
 
 <p align="center">
-  <sub><i>Dark mode enthusiast | Backend & DevOps | Geek for life</i></sub>
+  <sub>Made with ❤️ by Mirza Aditya D</sub>
 </p>
