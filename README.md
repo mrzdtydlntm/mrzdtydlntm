@@ -1,7 +1,7 @@
 <!-- Profile README for mrzdtydlntm -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:232526,100:414345&height=180&section=header&text=mrzdtydlntm&fontSize=55&fontColor=F5F5F5" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=mrzdtydlntm&fontSize=55&fontColor=F5F5F5&animation=fadeIn" alt="banner" />
 </p>
 
 <p align="center">
